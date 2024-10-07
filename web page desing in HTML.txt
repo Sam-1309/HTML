@@ -1,0 +1,35 @@
+<html>
+
+<head>
+
+<title>ARTIFICIAL INTELLIGENCE & DATA SCIENCE</title>
+
+</head>
+
+<body bgcolor="sky blue">
+<h1 align="center"> <B>ARTIFICIAL INTELLIGENCE & DATA SCIENCE
+</h1></B>
+<h2>ARTIFICIAL INTELLIGENCE</h2>
+<UL type ="circle">
+<l1>It is a machine act and think as human and solve problems faster than human </l1>
+</UL>
+<h2> DATA SCIENCE </h2>
+<UL type="square"> 
+<l1>It is a collection of <b>DATA</b> to alanyze  </l1> </UL>
+<p>It is saved in device in any form (ex-files,photo) various programing language is used in </br> <b>DATA SCIENCE</b>:Python,R,SQL
+
+<h2>APPLICATION OF AI </h2>
+<OL type="1"> 
+<L1>Use in image recognition</L1>
+<L1>Personalized recommendations (ex-Netflix)</L1></br>
+<L1>Langauge translation appa (ex-Google)</L1> </br>
+<L1>Smart phone devices (ex-security)</L1>
+
+</OL>
+
+<img src=https://images.app.goo.gl/Yr6Rn8LFGxLnaQd59>
+
+</body>
+
+
+</html>
