@@ -1,0 +1,45 @@
+<html>
+<head>
+<title> CSS </title>
+<style>
+h1 {
+ color:rgb(165, 127, 255);
+ font-size: 70px;
+ text-decoration : underline;
+ text-align: center;
+ text-decoration-color: blue;
+}
+p {
+    color:yellowgreen;
+    font-size: medium;
+   text-decoration:darkmagenta;
+    text-align: center;
+    text-decoration-color: blue;
+}
+ ul{
+    color:rgb(139, 157, 231);
+    background-origin: padding-box;
+}
+h2 {
+    color: teal;
+    text-align: center;
+    column-rule-style: dotted;
+
+}
+li{
+    
+    text-decoration: double;
+}
+</style>
+</head>
+<body bgcolor="black">
+    <h1> CSS : Cascading Style heets </h1>
+    <p>A Style sheet is a set of instructions used to define the appearance and layout of elements on a web pge.<br>Style sheets separate content (HTML)from presentations(CSS),making<br>it easy to change how a page without altering its html stucture.<br><br> 
+     </p>
+     <h2>3 Types of CSS </h2>
+     <ul>
+        <li>Inline CSS</li>
+        <li>Internal CSS</li>
+        <li>External CSS</li>
+     </ul>
+    </body>
