@@ -1,0 +1,16 @@
+
+<styyle>
+h1{
+color:blue;
+font-size:70px;
+text-align:center;
+border-color:black;
+border:23px;
+}
+p {
+color:yellow;
+border:12px;
+border-color:red;
+margin:15px;
+}
+</style>
