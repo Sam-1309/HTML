@@ -1,0 +1,34 @@
+
+<html>
+      <head> <title> FORM TAG </title>
+        
+          <style>
+h1{
+color:blue;
+font-size: 70px;
+text-align: center;
+border-color: black;
+border: 23px;
+}
+form {
+color:yellow;
+border:12px;
+border-color:red;
+margin:15px;
+}
+</style>
+        </head>
+        <body>
+            <h1> FORM </h1>
+            <form>
+                <label ="username"> Name</label>
+                <input type ="text" id="text" value="text"> <br><br><br>
+                <label ="email"> E-mail</label> 
+                <input type ="email" id="email" value="email"> <br><br><br>
+                <label ="password"> password</label>
+                <input type ="text" id="text" value="text"> <br><br><br>
+                <label ="submit"> submit</label>
+                <input type ="submit" id="submit" value="submit">
+                </form>
+            </body>
+</html>
