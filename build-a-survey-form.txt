@@ -1,0 +1,70 @@
+** start of undefined **
+
+<DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Coding Workshop Registration</title>
+    <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+     <h1 id="title">Coding Workshop!!!2k25</h1>
+     <p id="description">This workshop consist various coding courses in the end of coruse you will get cerfified certification</p>
+     <p>Enjoy Coding!!</p>
+     <form id="survey-form">
+       <fieldset>
+       <label placeholder="1"id="name-label"for="Username">UserName:<input id="name"type="text" required placeholder="name" ></label>
+<br> <label placeholder="2" align="center"id="email-label" for="email">Email:<input id="email"type="email"placeholder="email" required ></label>
+<br> <label align="center" placeholder="3"id="number-label"for="password">Password:<input id="number"type="number" pattern="[a-z0-5]{8,}" min= "7"max="7"placeholder="password
+" required ></label>
+      </fieldset><br>
+  <fieldset>
+    <h2> Curently Studying</h2>
+    <select id="dropdown">
+<option required>1st year</option>
+<option required>2nd year</option>
+<option required>3rd year</option>
+<option required>4th year</option>
+</select> 
+</fieldset> <br>
+<fieldset>
+<h2>Which Branch</h2>
+ <label><input type="radio" value="Civil"name="branch" required>Civil<br>
+<label><input type="radio" value="mechanical"name="branch"required>Mechanical<br>
+<label><input type="radio" value="electrical"name="branch"required>Electrical<br>
+<label><input type="radio" value="cse"name="branch"required>CSE<br>
+<label><input type="radio" value="ai&ds"name="branch"required>AI&DS<br>
+  </fieldset> <br>
+  <fieldset>
+    <h2>Choose Any Course</h2>
+    <label><input type="checkbox"name="course"
+    value="Auto-Cad" required>AutoCAD<br>
+    <label><input type="checkbox"name="course"
+    value="Python" required>Python<br>
+    <label><input type="checkbox"name="course"
+    value="C++" required>C++<br>
+    <label><input type="checkbox"name="course"
+    value="Html" required>HTML<br>
+    <label><input type="checkbox"name="course"
+    value="Css" required>CSS<br>
+    <label><input type="checkbox"name="course"
+    value="sql database" required>SQL Database<br>
+    </fieldset><br>
+<fieldset>
+  <h2>Any Suggestion</h2>
+ <textarea></textarea>
+  </fieldset> <br><br>
+  <label><input type="submit"type="button"id="submit">SUBMIT
+
+       </form>
+      </body>
+      </html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
